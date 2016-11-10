@@ -1,0 +1,18 @@
+[package]
+name = "project_euler"
+version = "0.1.0"
+authors = ["takenta <takenta0920@outlook.com>"]
+
+[[bin]]
+name = "problem_1"
+path = "src/problem1.rs"
+
+[[bin]]
+name = "problem_2"
+path = "src/problem2.rs"
+
+[[bin]]
+name = "problem_22"
+path = "src/problem22.rs"
+
+[dependencies]
