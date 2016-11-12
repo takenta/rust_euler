@@ -20,6 +20,10 @@ name = "problem_5"
 path = "src/problem5.rs"
 
 [[bin]]
+name = "problem_6"
+path = "src/problem6.rs"
+
+[[bin]]
 name = "problem_22"
 path = "src/problem22.rs"
 
